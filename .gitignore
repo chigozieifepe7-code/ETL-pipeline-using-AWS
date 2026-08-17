@@ -1,0 +1,9 @@
+.env
+careplus_support_db.sql
+day-wise-logs-data/
+.ipynb_checkpoints/
+date_tracker.txt
+log_date_tracker.txt
+.csv
+.parquet
+.log
